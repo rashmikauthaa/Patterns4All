@@ -1,3 +1,6 @@
+/* 
+https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/G
+*/
 #include<iostream>
 using namespace std;
 
